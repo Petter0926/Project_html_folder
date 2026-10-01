@@ -1,11 +1,11 @@
 img {
-  width: 380px;
+  width: 320px;
   height: fit-content;
   margin: auto;
 }
 body {
   background-color: lightskyblue;
-  color: rgba(169, 110, 39, 0.995);
+  color: rgba(188, 29, 20, 0.995);
   font-style: italic;
   font-family: sans-serif;
   padding: 2%;
